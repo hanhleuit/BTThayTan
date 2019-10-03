@@ -1,0 +1,14 @@
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.deps.json
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.pdb
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csprojAssemblyReference.cache
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/MHChao.xaml.g.cs
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/MHTinhTong.xaml.g.cs
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.AssemblyInfo.cs
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.dll
+/Users/apple/XamarinApp/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/HelloWorld.pdb

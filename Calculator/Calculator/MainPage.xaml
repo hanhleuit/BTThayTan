@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" x:Class="Calculator.MainPage"
+             Title="Calculator">
+    <StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Text="0" Grid.Column="0" Grid.ColumnSpan="4" Grid.Row="0" BackgroundColor="Gray" FontSize="60" TextColor="White" HorizontalTextAlignment="End" VerticalTextAlignment="End"/>
+
+            <Button Text="C" Grid.Column="0" Grid.Row="1" BackgroundColor="White"/>
+            <Button Text="+/-" Grid.Column="1" Grid.Row="1" BackgroundColor="White"/>
+            <Button Text="%" Grid.Column="2" Grid.Row="1" BackgroundColor="White"/>
+            <Button Text="DIV" Grid.Column="3" Grid.Row="1" BackgroundColor="Orange"/>
+
+            <Button Text="7" Grid.Column="0" Grid.Row="2" BackgroundColor="White"/>
+            <Button Text="8" Grid.Column="1" Grid.Row="2" BackgroundColor="White"/>
+            <Button Text="9" Grid.Column="2" Grid.Row="2" BackgroundColor="White"/>
+            <Button Text="X" Grid.Column="3" Grid.Row="2" BackgroundColor="Orange"/>
+
+            <Button Text="4" Grid.Column="0" Grid.Row="3" BackgroundColor="White"/>
+            <Button Text="5" Grid.Column="1" Grid.Row="3" BackgroundColor="White"/>
+            <Button Text="6" Grid.Column="2" Grid.Row="3" BackgroundColor="White"/>
+            <Button Text="-" Grid.Column="3" Grid.Row="3" BackgroundColor="Orange"/>
+
+            <Button Text="1" Grid.Column="0" Grid.Row="4" BackgroundColor="White"/>
+            <Button Text="2" Grid.Column="1" Grid.Row="4" BackgroundColor="White"/>
+            <Button Text="3" Grid.Column="2" Grid.Row="4"/>
+            <Button Text="+" Grid.Column="3" Grid.Row="4" BackgroundColor="Orange"/>
+
+            <Button Text="0" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="5"/>
+            <Button Text="." Grid.Column="2" Grid.Row="5"/>
+            <Button Text="=" Grid.Column="3" Grid.Row="5" BackgroundColor="Orange"/>
+
+        </Grid>
+    </StackLayout>
+</ContentPage>

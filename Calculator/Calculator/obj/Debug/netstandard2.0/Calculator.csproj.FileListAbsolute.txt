@@ -1,0 +1,12 @@
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.csprojAssemblyReference.cache
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/apple/Documents/Xamarin/XamarinApp/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.pdb
