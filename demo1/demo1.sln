@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo1.Android", "demo1.Android\demo1.Android.csproj", "{A3C64897-8631-4A6B-B7AA-E028519C5741}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "demo1", "demo1\demo1.shproj", "{3556B24F-FD11-4C39-B8C2-24031F99A176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C64897-8631-4A6B-B7AA-E028519C5741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C64897-8631-4A6B-B7AA-E028519C5741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C64897-8631-4A6B-B7AA-E028519C5741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C64897-8631-4A6B-B7AA-E028519C5741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

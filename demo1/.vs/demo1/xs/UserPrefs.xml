@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A3C64897-8631-4A6B-B7AA-E028519C5741}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo1/LoaiHoa.cs">
+    <Files>
+      <File FileName="demo1/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="demo1/MainPage.xaml" />
+      <File FileName="demo1/hoa.cs" />
+      <File FileName="demo1/PageListViewPage.xaml" />
+      <File FileName="demo1/PageListViewPage.xaml.cs" />
+      <File FileName="demo1/App.xaml.cs" />
+      <File FileName="demo1/LoaiHoa.cs" Line="16" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo1" expanded="True">
+            <Node name="demo1" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="LoaiHoa.cs" selected="True" />
+              <Node name="PageListViewPage.xaml" expanded="True" />
+            </Node>
+            <Node name="demo1.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.demo1.Android PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.ItemProperties.demo1 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

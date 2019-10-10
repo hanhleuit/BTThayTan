@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apple/Documents/Xamarin/XamarinApp/demo1/demo1.Android/demo1.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/apple/Documents/Xamarin/XamarinApp/demo1/demo1.Android/demo1.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Documents/Xamarin/XamarinApp/demo1/demo1.Android/demo1.Android.csproj",
+        "projectName": "demo1.Android",
+        "projectPath": "/Users/apple/Documents/Xamarin/XamarinApp/demo1/demo1.Android/demo1.Android.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Documents/Xamarin/XamarinApp/demo1/demo1.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/apple/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.CardView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.MediaRouter": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.1.0.555618, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
