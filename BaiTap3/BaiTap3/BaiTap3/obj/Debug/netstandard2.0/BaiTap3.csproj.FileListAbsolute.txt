@@ -1,0 +1,14 @@
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/bin/Debug/netstandard2.0/BaiTap3.deps.json
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/bin/Debug/netstandard2.0/BaiTap3.dll
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/bin/Debug/netstandard2.0/BaiTap3.pdb
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/BaiTap3.csprojAssemblyReference.cache
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/Views/HoaListPage.xaml.g.cs
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/Views/ThemHoaPage.xaml.g.cs
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/Views/ThemLoaiHoaPage.xaml.g.cs
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/BaiTap3.AssemblyInfoInputs.cache
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/BaiTap3.AssemblyInfo.cs
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/BaiTap3.dll
+/Users/apple/XAMARIN/BaitapLiThuyet/BaiTap3/BaiTap3/BaiTap3/obj/Debug/netstandard2.0/BaiTap3.pdb

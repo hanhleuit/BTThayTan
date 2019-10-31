@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7763D3AC-A10C-49E6-8A49-A17FA27B01B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaiTap3/BaiTap3.Android/Resources/drawable/hoa.jpg">
+    <Files>
+      <File FileName="BaiTap3/BaiTap3/App.xaml" Line="11" Column="22" />
+      <File FileName="BaiTap3/BaiTap3.Android/Assets/AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="BaiTap3/BaiTap3/Services/SQLite/Database.cs" Line="78" Column="1" />
+      <File FileName="BaiTap3/BaiTap3.Android/Resources/drawable/hoa.jpg" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaiTap3" expanded="True">
+            <Node name="BaiTap3" expanded="True" />
+            <Node name="BaiTap3.Android" expanded="True" selected="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BaiTap3.Android PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
