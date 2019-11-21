@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B1EAB718-9ED6-4356-9AE0-1C14AA242D93}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaiTap4/App.xaml">
+    <Files>
+      <File FileName="BaiTap4/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="BaiTap4/MainPage.xaml" Line="11" Column="3" />
+      <File FileName="BaiTap4/App.xaml" Line="5" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaiTap4" expanded="True" selected="True">
+            <Node name="BaiTap4" expanded="True" />
+            <Node name="BaiTap4.Android" expanded="True" />
+            <Node name="BaiTap4.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BaiTap4.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BaiTap4.Android FirstBuild="True" PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BaiTap4 FirstBuild="True" />
+</Properties>

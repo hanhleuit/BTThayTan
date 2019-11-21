@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apple/Documents/Xamarin/XamarinApp/BaiTap4/BaiTap4.iOS/BaiTap4.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/apple/Documents/Xamarin/XamarinApp/BaiTap4/BaiTap4.iOS/BaiTap4.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/Documents/Xamarin/XamarinApp/BaiTap4/BaiTap4.iOS/BaiTap4.iOS.csproj",
+        "projectName": "BaiTap4.iOS",
+        "projectPath": "/Users/apple/Documents/Xamarin/XamarinApp/BaiTap4/BaiTap4.iOS/BaiTap4.iOS.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/Documents/Xamarin/XamarinApp/BaiTap4/BaiTap4.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/apple/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Plugin.Multilingual": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
